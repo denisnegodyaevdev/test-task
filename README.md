@@ -4,4 +4,4 @@
 ### `npm start`
 
 for storybook
-### `npm storybook`
+### `npm start storybook`
